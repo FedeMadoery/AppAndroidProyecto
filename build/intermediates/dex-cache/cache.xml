@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_200fff222d7be359414a343853ac86e2eaa7960a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_7a492bbf4311858225111dbb8b98748dfca50ff6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_bee79df23293eed97a37849aafa4909b153daede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_01b2f94480d5e96d7bb2506767b0d76c0990d1df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_0d74aadf86b5115fd5f4ab160e4b2f199933be29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_e28a2772ffffc2a3a993fbf8be7bf94699145d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_66245e161af588b9ec45c953d891a5670be33e7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_82bb912a0e127035774acffbd4faec2bf5ea0876\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_9fb791e866339a5011dcaa257f7f462be9bab977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d74e429eaa9babdf0983823c3529abb644937329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Puchoo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_de780ec80142d1b6e32fe4da5820b3872cc72394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_8cfc2228683072a1880e8694cfe7c9dee5d479b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f3e84f9595be551c902be73f2696a3a85e491824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_c3255a24228a95274cdb7ac9c8c2e4ba96bd26dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5310bf15a4d61a24ce017c692efc5591a8a8af3c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d7e66c5df64e947dd793b8e0a1b98def7064f6e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_04a8038b5cead5954de98de00c209fff7211b4b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_39c4f3766dc350eb7fbc2a9bd704ad75a0aa32b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_b758473e4811112fdfa380c616b992cfae2d719c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_22ee6a076e96a6bb2fac4796720e61d3e4bddcea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_88091684bf60059653ee9a63de187b5e171431e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_d85b95a96c569d92ffa8c6df714a4c705bc58d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_ae9c7534b65f3a1a00e1a622a49f3a22cfb47dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_2a735b18646cb567fa49375ff04661641cd40f98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_1766d42562d62ef4b94369bb82c3caac283f3e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_7a83023fb44ad69c4f29b2e87c7b97f9e44c60d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_eb5527aa20b37c44d21d94df7fde399c048976de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_a3ada3e26e2d478a6fea66430656df89f3b018c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4aca6ca63cfe912f2bd99fc2f173ffc129ac913a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_e8abc8f51aee3fb2fde8425bb2b7cea782a2c11d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_5dcf08624223babc1aea3ecab41511f8656274b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_42279201ddd4b65e39e111ebb96e1b9ef24a281b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_34d4bb3dbb466ee25fcb1911d65be9bd6a37a8ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_e00271be00c48ed7295b4c4ae1f553a459320644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_b5d88cde81402f6860689becf17af36e1187eb8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_d5468ecc5f44f303f1c5afd9e186f6fa26876aff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_ad8b89db0e0b71d2ac14e17f34cf3a280d6592aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_1752f52968976cfc5e9c468aa26c05b202388fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_12da698b8378ce7ab29ebb31fb1c1cb7609539e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_53c78d24df95294a08864733118c80ab7d595b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_2f88122ec9113f3d60266fc042064b95ad986f2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_fd2f7915d4db075ee4e72249708350caa360d111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_093f731a48d75557f40afe56cb2e30ee62df6c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6391cc3ea65ee486356fef6a2fca2bef64b7d9cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72ddea98652f134a7ad4bee8f5e82c19a67e0bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_a0fcaaa16bee547fba8d326ce206a8bb6fc1d27d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_fa5e58dfb9bea8aeac9280c7bd797daa67be24fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_83339fc14e7380a5994d9631b3f394ebd8e8e456\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_4e5af9b4bd11586737c765b8af454e25656d248b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_745d01e38f06d161cbdb592073cb2893f9aa4047\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_0b276f50b0b5751124aede6b4c3d49a42ea7f1b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_285229f2013ffa7e22132ce13dd112dea54420d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_d89b7ff16758c785e7811687c91663c3c3bd9e99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_784660cb96e90c17df0730e34cdd4f344fffef02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_7c260476c3d97557c466563c60fa76d9497c2df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_24ebf5bd1e6393d3f47b82724d508279fd86f35e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_4b9f68f69d9b48b593126da60c28390ce046c128\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc1bb280ef3d9fa5ac5569a289c6a3c864a743cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_960dcb858c501bfa2b3538e87232479717e21635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_b0a6599144b692030b8b7d65818bda4fc6cc9083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\SDKandroid\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_66f0b53c9d368fc291fa9d9fef4770f50cf780cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_480c49ccce5368efc7d6f46070630646cd1a9bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_2b2c30d9002f779df53540449343efc9d6666558\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_93cbc29c379860978d26ba449f872faeaddd550c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_56aba0e0646f45ea47ad7e2509eeaef54200dbe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_b79035a238d9694d17d0bab6f93a931f8d807423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_d14162948da11ce5b26855e102ba9cfb0d5b98cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_f5dce5bdd95493618a0f6b0e7755781980fb5113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_86079ef8be2c39d4b45a943f4a9c6fd6ab003dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c8fa4f01d4742815fc0cb4f7b8ec34c40c5796f">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f1c81d7706411554fdba674a2194c8e31dab324f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_4f68afd0a5c806375f1c9700b2b2f8db3821ab93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_6128b1601494bbecb908f99b5f8348048c01e546\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="B:\Programacion\StudioProjects\MapMaterial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6a4ae42bb4482e2e16f2be7b3759816ea84aaae3\classes.dex" />
+    </item>
+
+</items>
